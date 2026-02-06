@@ -1,0 +1,5 @@
+- Python 3.7 or higher  
+- CouchDB running locally  
+- Python packages:
+  - PyQt5  
+  - requests  
